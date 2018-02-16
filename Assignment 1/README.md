@@ -1,7 +1,5 @@
 # CSCI 576 - Multimedia Systems Design Assignment 1
 
-By: Vincent-Patrick Espino
-
 Per the assignment description, this program can be run from the command line using the following command (make sure to compile with ‘javac imageReader.java’ first!):
 
 imageReader.java path-to-image Y U V Q
