@@ -1,4 +1,4 @@
-CSCI 576 - Multimedia Systems Design Assignment 1
+# CSCI 576 - Multimedia Systems Design Assignment 1
 
 By: Vincent-Patrick Espino
 USC ID: 5002 2761 17
