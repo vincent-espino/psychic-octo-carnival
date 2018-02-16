@@ -1,9 +1,6 @@
 # CSCI 576 - Multimedia Systems Design Assignment 1
 
 By: Vincent-Patrick Espino
-USC ID: 5002 2761 17
-
-This README should be within a folder titled ‘Submission_5002276117.’ Within this folder, there should be an imageReader.java file and a PDF with the written and the analysis questions answered.
 
 Per the assignment description, this program can be run from the command line using the following command (make sure to compile with ‘javac imageReader.java’ first!):
 
